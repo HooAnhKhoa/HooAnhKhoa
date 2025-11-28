@@ -6,17 +6,18 @@
 
 ## 🚀 About Me
 
-I'm a passionate frontend developer from Vietnam who loves creating beautiful and functional web experiences. I enjoy turning complex problems into simple, beautiful designs.
+Hello! I’m a Full-Stack Developer from Vietnam with a strong interest in building web applications using Laravel. I enjoy working on both frontend and backend, and I always try to create clean, reliable, and user-friendly products.
 
+I love learning new technologies and understanding how things work behind the scenes. In my free time, I often explore new ideas, read documentation, or simply relax with a cup of Vietnamese coffee.
+
+For me, programming is not just a job—it’s a continuous journey of learning, creativity, and growth.
 <br>
 
 ## 🛠️ Tech Stack
 ### **Core Framework**
 <p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="36" height="36" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" alt="composer" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blade/blade-original.svg" alt="blade" width="40" height="40"/> 
 </p>
 
 ### **Frontend Development**
